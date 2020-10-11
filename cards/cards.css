@@ -1,0 +1,32 @@
+.owl-stage{
+    right:30px;
+}
+.owl-carousel-fullwidth-a .cards{ 
+    width:200px;
+    height:200px;
+    background:#fafafa;
+    box-shadow:0px 2px 10px 0px rgba(0,0,180,0.1);
+     
+}
+
+.owl-carousel-fullwidth-a .cards .boxs {
+    text-align:center;
+    padding:20px;
+    box-sizing:border-box;
+    width:100%;
+}
+.owl-carousel-fullwidth-a .cards .boxs .imgs {
+    width:100px;
+    height:100px;
+    padding-top: 20px;
+    color:#8939e2;
+    margin:0 auto;
+    overflow:hidden;
+}
+.owl-carousel-fullwidth-a .cards .boxs .imgs i {
+    font-size: 40px;
+}
+
+.owl-carousel-fullwidth-a .cards .boxs p {
+    color:#262626;
+}
